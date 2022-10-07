@@ -11,12 +11,7 @@
 ![](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![](https://img.shields.io/github/downloads/DxxxxY/Hephaestus/total?style=for-the-badge)
 
-Join the **[Discord Server](https://dsc.gg/dxxxxy)** for support and pre-releases.
-
 </div>
-
-## [Outdated Demo](https://youtu.be/R-F2dygIOZg)
-## [2.0 Trailer](https://youtu.be/z8CRQEXjcKQ)
 
 ## Features
 - Files can be found in `%AppData%/Hephaestus/`.
@@ -49,5 +44,4 @@ Not sure what to enter as data? Visit the [DataDoc](DATADOC.md).
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
 
 ## License
-GPLv3 © dxxxxy
-# BIG-RAT-FORGER
+GPLv3 © Veilleux210
